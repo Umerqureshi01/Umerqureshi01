@@ -1,5 +1,5 @@
 
-<h1 align="center">AOA 👋🏻, I'm Umer qureshi</h1>
+<h1 align="center">AOA 👋🏻, I'm Umer Qureshi</h1>
 <h3 align="center"> •STUDENT OF COMPUTER ENGINEERING TECHNOLOGY(CET)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umerqureshi01&label=Profile%20views&color=0e75b6&style=flat" alt="umerqureshi01" /> </p>
@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Umerqureshi01](https://github.com/Umerqureshi01)
 
-- 💬 Ask me about **Do you work in design (graphics/UI/UX)?**
+- 💬 Ask me about **I’m here to help – just ask**
 
 - 📫 How to reach me **umerq3680@gmail.com**
 
