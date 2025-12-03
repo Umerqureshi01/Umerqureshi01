@@ -1,7 +1,6 @@
 
 <h1 align="center">AOA 👋🏻, I'm Umer qureshi</h1>
 <h3 align="center"> •STUDENT OF COMPUTER ENGINEERING TECHNOLOGY(CET)</h3>
-<img width="998" height="278" alt="image" src="/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umerqureshi01&label=Profile%20views&color=0e75b6&style=flat" alt="umerqureshi01" /> </p>
 
