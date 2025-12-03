@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Umer qureshi</h1>
+<h1 align="center">Hi 👋🏻, I'm Umer qureshi</h1>
 <h3 align="center">Developer • Designer • Problem Solver</h3>
 
 <img align="right" alt="coding" width="400" scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0AKRmlJvvbEly1v79Tn6zd&ust=1764853640327000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCugq--oZEDFQAAAAAdAAAAABAT">
