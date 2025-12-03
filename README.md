@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋🏻, I'm Umer qureshi</h1>
 <h3 align="center">Developer • Designer • Problem Solver</h3>
-
-<img align="right" alt="coding" width="400" scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0AKRmlJvvbEly1v79Tn6zd&ust=1764853640327000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCugq--oZEDFQAAAAAdAAAAABAT">
+<img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/d933f353-e34b-4968-8f01-51c681e172c7" />
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umerqureshi01&label=Profile%20views&color=0e75b6&style=flat" alt="umerqureshi01" /> </p>
 
