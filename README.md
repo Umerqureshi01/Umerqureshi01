@@ -1,7 +1,7 @@
 
-<h1 align="center">Hi 👋🏻, I'm Umer qureshi</h1>
-<h3 align="center">Developer • Designer • Problem Solver</h3>
-<img width="998" height="278" alt="image" src="https://github.com/user-attachments/assets/7e3b4dc1-de0a-4f4c-8b05-9ddca81f4138" />
+<h1 align="center">AOA 👋🏻, I'm Umer qureshi</h1>
+<h3 align="center">Developer • STUDENT OF COMPUTER ENGINEERING TECHNOLOGY(CET)</h3>
+<img width="998" height="278" alt="image" src="/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umerqureshi01&label=Profile%20views&color=0e75b6&style=flat" alt="umerqureshi01" /> </p>
 
